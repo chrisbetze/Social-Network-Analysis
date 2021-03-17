@@ -3,4 +3,4 @@
 Laboratory exercises using advanced software tools for analyzing social and information networks that have spread through the Internet and mobile terminals
 * Lab1: Complex Network Topologies
 * Lab2: Community Detection
-* Lab3:
+* Lab3: Genetic Algorithms and Epidemic Models
