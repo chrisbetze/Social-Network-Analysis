@@ -1,5 +1,5 @@
 # Analysis and Study of Complex Network Topologies
-![Untitled](https://user-images.githubusercontent.com/50949470/111456030-2cc86a80-871f-11eb-9178-62843291d536.png)
+<img src="https://user-images.githubusercontent.com/50949470/111456762-0fe06700-8720-11eb-9acd-02674c59262b.png" width="800" height="500">
 
 ## Network Types
 * Regular (Lattice) Networks
