@@ -13,7 +13,7 @@
 ## Analysis and Study
 
 ### Generation - Visualization
-We generate, analyze and visualize the above topologies, using *networkx* and *matplotlib* library.
+We generate, analyze and visualize the above topologies, using `networkx` and `matplotlib` library.
 
 ### Degree Analysis
 * Degree Distribution
